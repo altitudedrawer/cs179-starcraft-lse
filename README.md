@@ -12,27 +12,27 @@ pip install -r requirements.txt
 Run order:
 
 1. python 01_baseline.py
-   Output:
-   baseline_results.csv
+   - Output:
+   - baseline_results.csv
 
 2. python 02_pyro_skill_model.py
-   Output:
-   pyro_results.csv
-   learned_skills.csv
+   - Output:
+   - pyro_results.csv
+   - learned_skills.csv
 
 3. python 03_training_size_experiment.py
-   Output:
-   training_size_results.csv
-   figures/figure2_training_size_effect.png
+   - Output:
+   - training_size_results.csv
+   - figures/figure2_training_size_effect.png
 
 4. python 04_plot_results_figure1.py
-   Output:
-   combined_results.csv
-   figures/figure1_model_comparison_green_largefont.png
+   - Output:
+   - combined_results.csv
+   - figures/figure1_model_comparison_green_largefont.png
 
 5. python 05_posterior_uncertainty_plot.py
-   Output:
-   figure3_uncertainty_comparison.png
+   - Output:
+   - figure3_uncertainty_comparison.png
 
 Notes:
 - train.csv and valid.csv should be in the same folder as the scripts.
