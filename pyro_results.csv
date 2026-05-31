@@ -1,0 +1,2 @@
+model,accuracy,log_loss,train_rows_used,num_steps
+Pyro SVI Latent Skill Model,0.6834703798653290,0.584997004457369,193074,2000

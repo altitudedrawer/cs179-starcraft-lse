@@ -1,0 +1,4 @@
+model,accuracy,log_loss,short_label
+Random Baseline,0.50359015817971,0.6931471805599450,Random
+Historical Win-rate Baseline,0.6593764294148310,0.6618922526869670,Win-rate
+Pyro SVI Latent Skill Model,0.6834703798653290,0.584997004457369,Pyro SVI

@@ -1,0 +1,3 @@
+model,accuracy,log_loss
+Random Baseline,0.50359015817971,0.6931471805599450
+Historical Win-rate Baseline,0.6593764294148310,0.6618922526869670
